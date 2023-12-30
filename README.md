@@ -1,4 +1,4 @@
-![image](https://github.com/ProBag/ProBag/assets/143302669/728ba94c-f1e7-48db-ac59-d357b0ea8bbc)
+<iframe src="https://giphy.com/embed/dyzew7Py7bnW9DiJJj" width="480" height="130" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/teamwork-data-analytics-datalab-dyzew7Py7bnW9DiJJj">via GIPHY</a></p>
 
 
 
@@ -26,7 +26,7 @@ I am open to collaboration on projects that align with my interests. If you are 
 ## 📫 How to Reach Me
 Feel free to reach out for collaborations, discussions, or any questions you might have. You can connect with me through:
 
-- **LinkedIn:** [<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](#[your-linkedin-profile](https://www.linkedin.com/in/rohinisidharthkulkarni/))
-- **Email:** [<img src="https://img.icons8.com/fluent/48/000000/gmail.png"/>](mailto:rohinisidharth.kulkarni@sjsu.edu)
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](#[your-linkedin-profile](https://www.linkedin.com/in/rohinisidharthkulkarni/))
+[<img src="https://img.icons8.com/fluent/48/000000/gmail.png"/>](mailto:rohinisidharth.kulkarni@sjsu.edu)
 
 Let's connect and explore the fascinating world of data together! 🚀
