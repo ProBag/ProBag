@@ -1,4 +1,4 @@
-<iframe src="https://giphy.com/embed/dyzew7Py7bnW9DiJJj" width="480" height="130" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/teamwork-data-analytics-datalab-dyzew7Py7bnW9DiJJj">via GIPHY</a></p> 
+![Teamwork](https://media.giphy.com/media/dyzew7Py7bnW9DiJJj/giphy.gif)
 
 
 
